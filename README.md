@@ -1,24 +1,20 @@
 # Hi 👋, I'm Sai Kiran Reddy
 
-###  Data Analyst | Python | SQL | Power BI
+<img align="right" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="250"/>
 
-I'm an aspiring Data Analyst with hands-on experience in Python, SQL, and data visualization.  
-I enjoy working with real-world datasets, building dashboards, and extracting insights.
+### Data Analyst | Python | SQL | Power BI
+
+I analyze real-world datasets, build dashboards, and extract insights.
 
 Always learning. Always improving. 🚀
 
-<img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="400"/>
 ---
 
-### 📫 Contact Me
-- Email: [saikiranr717@gmail.com](url)
-- LinkedIn: [linkedin.com/in/saikiran-r717](url)
+### 🛠 Tools
 
----
-
-### 🛠 Languages and Tools
 <p>
-<img src="https://skillicons.dev/icons?i=python,sql,excel,power-bi" />
+<img src="https://skillicons.dev/icons?i=python,mysql,excel" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
 </p>
 
 ---
