@@ -11,7 +11,7 @@ Always learning. Always improving. 🚀
 
 ### 📫 Contact  
 - 📫 Reach me at Email: saikiranr717@gmail.com
-- 💼LinkedIn: linkedin.com/in/saikiran-r717
+- 💼LinkedIn: [linkedin.com/in/saikiran-r717](url)
 
 ---
 
